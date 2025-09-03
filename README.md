@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 🎖 My Achievements
+![Postman Student Expert](https://github.com/USERNAME/USERNAME/blob/main/badge.png?raw=true)
