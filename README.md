@@ -24,6 +24,7 @@
   <img src="https://github.com/Farkhanda-Dalal/Farkhanda-Dalal/blob/main/Explorer-Badge.png" width="220" />
   <img src="https://github.com/Farkhanda-Dalal/Farkhanda-Dalal/blob/main/Adventurer-Badge.png" width="220" />
   <img src="https://github.com/Farkhanda-Dalal/Farkhanda-Dalal/blob/main/Trailblazer-Badge.png" width="240" />
+  <img src="https://github.com/Farkhanda-Dalal/Farkhanda-Dalal/blob/main/hacktoberfest1-badge.webp" width="210" />
 </p>
 
 
