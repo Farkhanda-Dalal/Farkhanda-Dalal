@@ -20,10 +20,10 @@
 
 ## 🎖 My Achievements
 <p align="center">
-  <img src="https://github.com/Farkhanda-Dalal/Farkhanda-Dalal/blob/main/Postman%20-%20Postman%20API%20Fundamentals%20Student%20Expert%20-%202025-09-01.png" width="200" />
-  <img src="https://github.com/Farkhanda-Dalal/Farkhanda-Dalal/blob/main/Explorer-Badge.png" width="220" />
-  <img src="https://github.com/Farkhanda-Dalal/Farkhanda-Dalal/blob/main/Adventurer-Badge.png" width="220" />
-  <img src="https://github.com/Farkhanda-Dalal/Farkhanda-Dalal/blob/main/Trailblazer-Badge.png" width="240" />
+  <img src="https://github.com/Farkhanda-Dalal/Farkhanda-Dalal/blob/main/Postman%20-%20Postman%20API%20Fundamentals%20Student%20Expert%20-%202025-09-01.png" width="160" />
+  <img src="https://github.com/Farkhanda-Dalal/Farkhanda-Dalal/blob/main/Explorer-Badge.png" width="180" />
+  <img src="https://github.com/Farkhanda-Dalal/Farkhanda-Dalal/blob/main/Adventurer-Badge.png" width="180" />
+  <img src="https://github.com/Farkhanda-Dalal/Farkhanda-Dalal/blob/main/Trailblazer-Badge.png" width="190" />
 </p>
 
 #### Hacktoberfest 2025 Super Contributor
